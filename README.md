@@ -1,0 +1,1 @@
+Basic MERN based interface with limited functionality (mock/template) of a social media web-app!
